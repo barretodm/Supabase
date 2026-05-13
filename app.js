@@ -104,6 +104,5 @@ app.get("/", (req, res) => {
 //});
 
 app.listen(3000, () => {
-  e;
   console.log(`> Ready on http://localhost:3000`);
 });
